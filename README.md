@@ -181,6 +181,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Data Validation
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| Whitepages Pro | Validate, normalize, parse, geocode addresses internationally and in US | `apiKey` | Yes | Yes | [Go!](https://pro.whitepages.com/developer/documentation/address-validation-api) |
 | LabStack | Check email address for syntax error, disposable mail server and valid SMTP mailbox | `apiKey` | Yes | Yes | [Go!](https://labstack.com/docs/api/email) |
 | languagelayer | Language detection | No | Yes | Unknown | [Go!](https://languagelayer.com) |
 | Lob.com | US Address Verification | `apiKey` | Yes | Unknown | [Go!](https://lob.com/) |
